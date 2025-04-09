@@ -1,0 +1,12 @@
+pkgbase = umu-binfmt
+	pkgdesc = binfmt registration & desktop entry for umu-launcher
+	pkgver = 1.0
+	pkgrel = 1
+	epoch = 0
+	arch = x86_64
+	license = GPL-3.0
+	depends = umu-launcher
+	conflicts = wine
+	conflicts = wine-staging
+
+pkgname = umu-binfmt
